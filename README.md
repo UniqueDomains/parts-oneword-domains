@@ -1,0 +1,2 @@
+# parts-oneword-domains
+List of parts one word domain names with availability, expiration date, attractiveness, demand score.
