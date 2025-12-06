@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PARTS one-word domains still available to buy.
 
-This dataset contains 4,580 .PARTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,578 .PARTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PARTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=parts-oneword-domains&utm_content=description.top) (4,578) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.PARTS one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.parts        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.parts        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.parts      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.parts  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.parts      | available | 43       | 2%     | 5      |           |         |         |
