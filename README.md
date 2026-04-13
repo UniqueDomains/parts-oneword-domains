@@ -76,7 +76,7 @@ print(df.head())
 | creator.parts  | available | $15.99    | $52.99        | 70             | 45     | 7      | name.com                   |
 | smart.parts    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC               |
 | one.parts      | premium   | $82.50    | $82.50        | 132            | 50     | 3      | name.com                   |
-| forge.parts    | available | $15.99    | $52.99        | 62             | 45     | 5      | name.com                   |
+| forge.parts    | available | $15.99    | $52.99        | 62             | 44     | 5      | name.com                   |
 | data.parts     | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.            |
 | life.parts     | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                  |
 | strategy.parts | available | $45.98    | —             | 74             | 43     | 8      | namecheap                  |
