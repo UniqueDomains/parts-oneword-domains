@@ -1,22 +1,22 @@
-# Available .PARTS One-Word Domains (9,294)
+# Available .PARTS One-Word Domains (11,775)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C295%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C294%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C775%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .parts one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .parts one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,775 domains** on the canonical page below.
 
-**Public extract:** 9,295 rows · **Live catalog:** 9,294 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,775 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/parts`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PARTS one-word domain
 
 ### Files
 
-- `parts.csv` — public CSV extract (9,295 rows)
-- `parts.json` — public JSON extract (9,295 rows)
+- `parts.csv` — public CSV extract (1,000 rows)
+- `parts.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| zero.parts     | available | $15.99    | $52.99        | 112            | 51     | 4      | name.com                   |
-| boss.parts     | resell    | —         | —             | 76             | 99     | 4      | Key-Systems, LLC           |
-| live.parts     | premium   | $500      | $500          | 108            | 56     | 4      | name.com                   |
-| genius.parts   | available | $15.99    | $52.99        | 98             | 45     | 6      | name.com                   |
-| get.parts      | resell    | —         | —             | 88             | 69     | 3      | Epik LLC                   |
-| max.parts      | premium   | $42.90    | $42.90        | 70             | 55     | 3      | namecheap                  |
-| secret.parts   | available | $15.99    | —             | 80             | 45     | 6      | name.com                   |
-| fleet.parts    | resell    | —         | —             | 62             | 68     | 5      | GoDaddy.com, LLC           |
-| business.parts | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap                  |
-| creator.parts  | available | $15.99    | $52.99        | 70             | 45     | 7      | name.com                   |
-| smart.parts    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC               |
-| one.parts      | premium   | $82.50    | $82.50        | 132            | 50     | 3      | name.com                   |
-| forge.parts    | available | $15.99    | $52.99        | 62             | 44     | 5      | name.com                   |
-| data.parts     | resell    | —         | —             | 70             | 56     | 4      | NameCheap, Inc.            |
-| life.parts     | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                  |
-| strategy.parts | available | $45.98    | —             | 74             | 43     | 8      | namecheap                  |
-| ace.parts      | resell    | —         | —             | 88             | 55     | 3      | Squarespace Domains II LLC |
-| travel.parts   | premium   | $82.50    | $82.50        | 115            | 48     | 6      | name.com                   |
-| deep.parts     | available | $15.99    | $52.99        | 72             | 43     | 4      | name.com                   |
-| good.parts     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC               |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| matcha.parts   | available | $15.99    | —             | 86             | 39     | 6      | name.com  |
+| justin.parts   | premium   | $82.50    | —             | 58             | 38     | 7      | name.com  |
+| prompts.parts  | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
+| events.parts   | premium   | $82.50    | —             | 68             | 37     | 6      | name.com  |
+| spectra.parts  | available | $15.99    | —             | 62             | 34     | 7      | name.com  |
+| partners.parts | premium   | $82.50    | —             | 61             | 32     | 8      | name.com  |
+| payments.parts | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
+| William.parts  | premium   | $138.60   | $138.60       | 74             | 31     | 7      | namecheap |
+| teams.parts    | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
+| pages.parts    | premium   | $82.50    | —             | 52             | 28     | 5      | name.com  |
+| trends.parts   | available | $15.99    | —             | 60             | 32     | 6      | name.com  |
+| tips.parts     | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
+| maps.parts     | available | $15.99    | —             | 56             | 31     | 4      | name.com  |
+| toys.parts     | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo  |
+| rewards.parts  | available | $15.99    | —             | 62             | 30     | 7      | name.com  |
+| girls.parts    | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
+| spaces.parts   | available | $15.99    | —             | 54             | 30     | 6      | name.com  |
+| guns.parts     | premium   | $82.50    | —             | 68             | 22     | 4      | name.com  |
+| heroes.parts   | available | $15.99    | —             | 68             | 29     | 6      | name.com  |
+| flights.parts  | premium   | $78.54    | $78.54        | 61             | 22     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,295-row public sample | 9,294 live domains                               |
+| 1,000-row public sample | 11,775 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
