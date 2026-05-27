@@ -69,9 +69,9 @@ print(df.head())
 | prompts.parts  | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
 | events.parts   | premium   | $82.50    | —             | 68             | 37     | 6      | name.com  |
 | spectra.parts  | available | $15.99    | —             | 62             | 34     | 7      | name.com  |
-| partners.parts | premium   | $82.50    | —             | 61             | 32     | 8      | name.com  |
-| payments.parts | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
 | William.parts  | premium   | $138.60   | $138.60       | 74             | 31     | 7      | namecheap |
+| payments.parts | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
+| partners.parts | premium   | $82.50    | —             | 61             | 31     | 8      | name.com  |
 | teams.parts    | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
 | pages.parts    | premium   | $82.50    | —             | 52             | 28     | 5      | name.com  |
 | trends.parts   | available | $15.99    | —             | 60             | 32     | 6      | name.com  |
