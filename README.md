@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .parts one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,254 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,254 domains · **Median ask:** $22.02 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,254 domains · **Median ask:** $23.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/parts`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/parts`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PARTS one-word domain
 
 ### Files
 
-- `parts.csv` — public CSV extract (1,000 rows)
-- `parts.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `parts.csv`, public CSV extract (1,000 rows)
+- `parts.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| matcha.parts   | available | $15.99    | —             | 86             | 39     | 6      | name.com  |
-| justin.parts   | premium   | $82.50    | —             | 58             | 38     | 7      | name.com  |
-| prompts.parts  | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
-| events.parts   | premium   | $82.50    | —             | 68             | 37     | 6      | name.com  |
-| spectra.parts  | available | $15.99    | —             | 62             | 34     | 7      | name.com  |
-| William.parts  | premium   | $138.60   | $138.60       | 74             | 31     | 7      | namecheap |
-| payments.parts | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
-| partners.parts | premium   | $82.50    | —             | 61             | 31     | 8      | name.com  |
-| teams.parts    | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
-| pages.parts    | premium   | $82.50    | —             | 52             | 28     | 5      | name.com  |
-| trends.parts   | available | $15.99    | —             | 60             | 32     | 6      | name.com  |
-| tips.parts     | premium   | $123.75   | —             | 80             | 26     | 4      | name.com  |
-| maps.parts     | available | $15.99    | —             | 56             | 31     | 4      | name.com  |
-| toys.parts     | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo  |
-| rewards.parts  | available | $15.99    | —             | 62             | 30     | 7      | name.com  |
-| coupons.parts  | premium   | $118.80   | $118.80       | 52             | 24     | 7      | namesilo  |
-| heroes.parts   | available | $15.99    | —             | 68             | 29     | 6      | name.com  |
-| girls.parts    | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
-| forms.parts    | available | $15.99    | —             | 54             | 28     | 5      | name.com  |
-| guns.parts     | premium   | $82.50    | —             | 68             | 22     | 4      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| out.parts        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| off.parts        | premium   | $242      | $242          | high           | low    | 3      | namesilo                                    |
+| special.parts    | premium   | $123.75   | —             | high           | low    | 7      | name.com                                    |
+| smooth.parts     | available | $15.99    | —             | high           | low    | 6      | name.com                                    |
+| present.parts    | available | $15.99    | —             | high           | low    | 7      | name.com                                    |
+| shh.parts        | available | $15.99    | —             | medium         | low    | 3      | name.com                                    |
+| poker.parts      | resell    | —         | —             | high           | medium | 5      | Mesh Digital Limited                        |
+| aaa.parts        | premium   | $260      | $260          | high           | medium | 3      | namecheap                                   |
+| atop.parts       | available | $15.99    | —             | medium         | low    | 4      | name.com                                    |
+| smart.parts      | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                |
+| add.parts        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| axis.parts       | available | $15.99    | —             | medium         | medium | 4      | name.com                                    |
+| spare.parts      | resell    | —         | —             | medium         | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| ADS.parts        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                    |
+| Bets.parts       | available | $15.99    | —             | high           | low    | 4      | name.com                                    |
+| premium.parts    | resell    | —         | —             | high           | low    | 7      | united-domains GmbH                         |
+| are.parts        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
+| blob.parts       | available | $15.99    | —             | medium         | low    | 4      | name.com                                    |
+| compatible.parts | resell    | —         | —             | high           | low    | 10     | GoDaddy.com, LLC                            |
+| btw.parts        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .parts domains. The set spans direct product terms such as chimney.parts and glove.parts, broader words like bell.parts, and more abstract options such as teamwork.parts or pleasing.parts. For founders, the strongest picks are usually the names that instantly signal a parts-related use case and stay easy to recall. For investors, the better candidates are the words with obvious commercial relevance, clean spelling, and realistic carry costs relative to the 22.02 median ask. When comparing these domains, focus on whether the word strengthens the .parts ending or creates confusion, and avoid names that feel awkward, off-category, or trademark-sensitive.
+This selection covers one-word .parts domain names built from everyday English vocabulary, including out.parts, half.parts, christmas.parts, and okay.parts. With a median ask near $23, most of these domains are affordable to acquire outright, offering a straightforward starting point for evaluating short, memorable names. When comparing these domains, look at spelling simplicity, trademark exposure, and how well each word carries meaning outside the .parts context.
 
-- Prioritize words that fit the .parts ending naturally
-- Use the 22.02 median ask as a pricing reference point
-- Favor clean spelling and obvious commercial meaning
-- Avoid words that weaken trust or create TM risk
+- 12,254 one-word .parts domains built from common English words
+- Median ask near $23 keeps most names easy to acquire outright
+- Examples: out.parts, half.parts, okay.parts, and christmas.parts
+- Short, ownable words ready for branding or portfolio building
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
