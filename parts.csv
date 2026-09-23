@@ -1,8 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 977453ba-cede-442b-b689-9bc66711a3d3,aversive.parts,available,10.48,45.98,low,low,8,namecheap,,,07/08/2026 22:40
-2c12fd8e-bf44-495c-a9a0-54083aed5848,late.parts,available,15.99,,high,low,4,name.com,,,
+2c12fd8e-bf44-495c-a9a0-54083aed5848,late.parts,available,10.48,45.98,medium,low,4,namecheap,,,22/09/2026 19:16
 8205b614-e077-4891-b4a7-9f43b79eba3a,bornyesterday.parts,available,15.99,,medium,low,14,name.com,,,
-3ea5e528-9183-462f-b202-e5a97b6a055e,select.parts,available,15.99,,high,low,6,name.com,,,
+3ea5e528-9183-462f-b202-e5a97b6a055e,select.parts,available,12.99,41.99,medium,low,6,namesilo,,,22/09/2026 23:07
 58e4b31d-f6a6-47a8-b801-28933a255422,barter.parts,available,15.99,,medium,low,6,name.com,,,
 b813b259-d1d3-4abc-a46c-a6f8c1950e56,berried.parts,available,10.48,45.98,low,low,7,namecheap,,,08/08/2026 04:45
 42aea74d-ad93-488b-b69c-3cc2a2687268,parody.parts,available,15.99,,high,low,6,name.com,,,
@@ -38,11 +38,11 @@ bd790e88-81e1-4b72-b888-22ac2f080e0e,aslope.parts,available,10.48,45.98,low,low,
 568d8667-5c47-46e3-8b35-3bb8176bc965,matte.parts,available,15.99,,high,low,5,name.com,,,
 768995b8-8b52-461f-8497-4d412da917b4,blackdiamond.parts,available,15.99,,high,low,13,name.com,,,
 bf034df4-ede8-4c49-be16-0c9d657e8a13,give.parts,available,15.99,,high,low,4,name.com,,,
-335584d4-344d-41ed-834d-e6d9c17ba7ed,asthmatic.parts,available,15.99,,medium,low,9,name.com,,,
+335584d4-344d-41ed-834d-e6d9c17ba7ed,asthmatic.parts,available,10.48,45.98,low,low,9,namecheap,,,22/09/2026 10:23
 4db379f4-ba20-4671-9b40-6940ec54579b,turn.parts,available,15.99,,high,low,4,name.com,,,
 1e07933a-99cd-498e-8beb-18f2eefd4b05,banausic.parts,available,10.48,45.98,low,low,8,namecheap,,,08/08/2026 11:29
 abba07ac-6fe7-4549-8b7c-460fc8240bdd,ratter.parts,available,10.48,45.98,low,low,6,namecheap,,,06/08/2026 04:00
-223f4982-c8a1-4d93-81b8-93f9d00f21b1,forward.parts,available,15.99,52.99,medium,low,7,name.com,,,
+223f4982-c8a1-4d93-81b8-93f9d00f21b1,forward.parts,available,10.48,45.98,low,low,7,namecheap,,,21/09/2026 20:55
 3751b60d-cad2-4eac-93a7-218f947ab225,experiment.parts,available,15.99,,high,low,10,name.com,,,
 f2be8657-b0aa-471d-8fa0-58db555e735b,restinpeace.parts,available,15.99,,low,low,13,name.com,,,
 c98fc7ea-77e0-46d5-abb2-1fed44a7dbd2,howareyougoing.parts,available,15.99,,medium,low,17,name.com,,,
@@ -92,14 +92,14 @@ df7df596-d5d1-4ef8-9e6d-1bea3034b86c,bighair.parts,available,15.99,,high,low,8,n
 a6f7cc78-a128-40f0-8b31-53c06cf614c1,lyric.parts,available,15.99,,medium,low,5,name.com,,,
 4b4ff192-464d-41d3-a293-d8584830c205,aquaphobic.parts,available,10.48,45.98,low,low,10,namecheap,,,06/08/2026 10:40
 a6bd5508-3198-4616-b3f4-b4d1d1db501a,legislative.parts,available,15.99,,high,low,11,name.com,,,
-aed5a62f-400a-454b-9007-c4247b15e352,abiding.parts,available,15.99,52.99,high,low,7,name.com,,,
+aed5a62f-400a-454b-9007-c4247b15e352,abiding.parts,available,10.48,45.98,medium,low,7,namecheap,,,21/09/2026 13:52
 c3d3d370-8b55-4444-bfc4-b1e0da76c841,pubichair.parts,available,15.99,,low,low,10,name.com,,,
 eb1984e3-c060-4cc4-b2f5-86cebee1bc59,restrict.parts,available,12.99,41.99,low,low,8,namesilo,,,19/09/2026 17:10
 d5a3c997-cb12-4f4b-b5eb-9dc3dcc11bb3,detecting.parts,available,15.99,,medium,low,9,name.com,,,
 e8fdae49-69e5-4a27-a3f4-596027cda010,volume.parts,available,15.99,,high,low,6,name.com,,,
 d525591a-14a9-43fc-9c7a-fb9517f70387,ads.parts,premium,78.54,78.54,high,medium,3,namesilo,,,
 5dc67ea9-52ab-485d-8dd0-53ecddde7902,bastardly.parts,available,10.48,45.98,low,low,9,namecheap,,,08/08/2026 23:53
-2948751c-4834-4db0-9bb2-b24c3aff83d4,prenatal.parts,available,15.99,,high,low,8,name.com,,,
+2948751c-4834-4db0-9bb2-b24c3aff83d4,prenatal.parts,available,10.48,45.98,medium,low,8,namecheap,,,22/09/2026 05:55
 589c06ce-303d-4687-a915-e04a41cde361,obese.parts,available,15.99,52.99,high,low,5,name.com,,,
 5fb311c7-1626-453a-b201-f7b43e0d1eac,halo.parts,available,15.99,,high,medium,4,name.com,,,
 a4920d42-008a-4439-a879-f49949ce0aa9,gowith.parts,available,15.99,,high,low,7,name.com,,,
@@ -121,7 +121,7 @@ b334ee4e-660b-452d-a0fe-ca5c86ac81ed,youwin.parts,available,15.99,,low,low,7,nam
 a5c3952d-6938-423c-a2e8-711278fb6ad7,frenchonionsoup.parts,available,15.99,,high,low,17,name.com,,,
 c34076c2-123f-4577-9a06-f5b44c5833dd,delightful.parts,available,15.99,52.99,medium,low,10,name.com,,,
 c2197bdb-a711-4a85-97c8-bbc8681422c5,everybody.parts,available,15.99,,medium,low,10,name.com,,,
-dbfd0414-5ce6-40d2-b6f7-7db4af14c389,blond.parts,available,15.99,,medium,low,5,name.com,,,
+dbfd0414-5ce6-40d2-b6f7-7db4af14c389,blond.parts,available,10.48,45.98,low,low,5,namecheap,,,22/09/2026 22:15
 a79e0e9e-9edd-4667-bff1-beb557ae4ee3,megeneration.parts,available,15.99,,medium,low,13,name.com,,,
 ba24915e-4153-4e8c-b3b4-b37cd163bffd,absolved.parts,available,10.48,45.98,low,low,8,namecheap,,,
 12e31d10-63c4-43f8-b9bd-3bc567c971da,underarrest.parts,available,15.99,,medium,low,12,name.com,,,
@@ -155,7 +155,7 @@ f1dc5008-35c5-40ae-9892-356e9645bcb8,wasnt.parts,available,15.99,,medium,low,5,n
 ce335a29-6f4c-45b3-bc1b-e245f6ae8d1c,argent.parts,available,10.48,45.98,low,low,6,namecheap,,,06/08/2026 17:51
 4698a368-8862-451c-ab15-2b2092b82c57,anticipate.parts,available,15.99,,high,low,10,name.com,,,
 01cc9c98-0af8-443d-83dd-f372e97643f0,irrational.parts,available,15.99,,high,low,10,name.com,,,
-b5d3827c-048d-4782-b79e-af34c881de00,alphabetic.parts,available,15.99,52.99,medium,low,10,name.com,,,
+b5d3827c-048d-4782-b79e-af34c881de00,alphabetic.parts,available,12.99,41.99,medium,low,10,namesilo,,,22/09/2026 02:10
 9826579d-1e7e-4ca8-ae50-62b9d92a5612,exculpated.parts,available,10.48,45.98,low,low,10,namecheap,,,
 627149fd-f6de-44f7-97e5-e5f04901feb6,gymnastic.parts,available,10.48,45.98,medium,low,9,namecheap,,,
 9bfa6278-3642-4933-b29c-9a97c5a304c9,ohio.parts,premium,118.8,118.8,high,low,4,namesilo,,,
@@ -164,7 +164,7 @@ a075af27-edae-4e78-a6ec-cf5de5b59a05,woods.parts,premium,78.54,78.54,medium,low,
 a84bc30e-281d-4b84-830a-1d5f25a6c3d4,rootabout.parts,available,15.99,,low,low,10,name.com,,,
 0abbc066-fe13-47a5-9bc4-f25a89950688,angulate.parts,available,10.48,45.98,low,low,8,namecheap,,,
 8089ce71-4e90-4d34-bee6-c34b6f603f99,banner.parts,available,10.48,45.98,low,low,6,namecheap,,,08/08/2026 13:53
-927c3f94-b627-419c-98da-014b60d4d768,damned.parts,available,15.99,,medium,low,6,name.com,,,
+927c3f94-b627-419c-98da-014b60d4d768,damned.parts,available,12.99,41.99,low,low,6,namesilo,,,22/09/2026 21:41
 53c2eb8a-9e39-40cb-91a5-9f737e840e20,californiakilowatt.parts,available,15.99,,high,low,19,name.com,,,
 0e9deab3-73ae-4c81-90d6-0b22e4b52a71,musicgame.parts,available,15.99,,high,low,10,name.com,,,
 30af8309-4435-4b66-9cdd-b2a2c19a82b8,amino.parts,available,10.48,45.98,low,low,5,namecheap,,,
@@ -194,7 +194,7 @@ e041da7c-3225-4185-969b-f61de2902b3d,influenced.parts,available,15.99,,medium,lo
 9b010dd7-3af0-4ddf-979c-a60a7d69010f,curse.parts,available,15.99,52.99,high,low,5,name.com,,,
 a0390455-902a-449c-8f13-df07b53cbcea,solicit.parts,available,15.99,,high,low,7,name.com,,,
 de359a46-47df-4053-83a4-2f831bcf159f,split.parts,available,15.99,52.99,medium,low,5,name.com,,,
-ca5de686-1495-4df9-8ced-977ce4222eaa,abovenamed.parts,available,15.99,,medium,low,11,name.com,,,
+ca5de686-1495-4df9-8ced-977ce4222eaa,abovenamed.parts,available,15.99,,low,low,11,name.com,,,
 f498718a-f6fe-432e-bba1-ade51d6e60f6,thirtytwo.parts,available,10.48,45.98,low,low,10,namecheap,,,
 e206dbe8-a002-42a0-9116-ba37dcdd7543,thisisit.parts,available,15.99,,low,low,10,name.com,,,
 ee74bc1f-0ab7-4997-8ed9-ea7206b7f3c0,baldfaced.parts,available,10.48,45.98,low,low,10,namecheap,,,08/08/2026 09:26
@@ -205,7 +205,7 @@ c847e393-45b6-45f4-97c9-67de2ee039a3,flying.parts,available,15.99,,high,low,6,na
 a9c02303-fe9b-4dbe-b4ec-12685046e742,techweek.parts,available,15.99,,medium,low,9,name.com,,,
 3aed0f39-bac1-4780-9129-35749cb41576,broached.parts,available,10.48,45.98,low,low,8,namecheap,,,
 1e835158-4826-4c33-8340-ec6777c83c1e,greg.parts,available,15.99,,medium,low,4,name.com,,,
-32a72f81-895a-4c2b-84b1-fa357b30aafe,clown.parts,available,15.99,,high,low,5,name.com,,,
+32a72f81-895a-4c2b-84b1-fa357b30aafe,clown.parts,available,12.99,41.99,medium,low,5,namesilo,,,22/09/2026 06:35
 75f5c16e-699e-4230-a6f1-b282601340f6,teddybear.parts,available,15.99,,high,low,10,name.com,,,
 d5f0eab5-4565-4374-9e4c-1635b452a6ef,inform.parts,available,12.99,41.99,low,low,6,namesilo,,,16/09/2026 07:13
 a1006c93-e7ef-4de1-a22e-13d778a3e735,granny.parts,available,15.99,,high,low,6,name.com,,,
@@ -222,7 +222,7 @@ f5093e2a-3412-4fb7-95c6-769dc80b810e,wander.parts,available,15.99,,medium,low,6,
 68e8307c-ecc0-4c99-a765-acd90454a62b,inshort.parts,available,15.99,,medium,low,8,name.com,,,
 8017ae8c-5d01-4337-872e-0733b89c954f,marked.parts,available,15.99,,high,low,6,name.com,,,
 90d0d853-14b8-4144-8571-1d7ef236cbfb,pig.parts,premium,78.54,78.54,high,low,3,namesilo,,,
-517db710-2c7e-4fa0-9e51-581d6f08808f,whiz.parts,available,15.99,52.99,high,low,4,name.com,,,
+517db710-2c7e-4fa0-9e51-581d6f08808f,whiz.parts,available,10.48,45.98,medium,low,4,namecheap,,,21/09/2026 18:01
 9043d2e9-7bbf-47cd-9bc5-49aacc3f63f8,giveout.parts,available,15.99,,medium,low,8,name.com,,,
 cb229458-0def-49bf-b17c-e5a4fc99cc66,seasonably.parts,available,10.48,45.98,low,low,10,namecheap,,,06/08/2026 10:03
 f21edb34-155d-4aea-8fa3-c3d9d630f228,putterabout.parts,available,15.99,,low,low,12,name.com,,,
@@ -245,7 +245,7 @@ de464fb6-ef1a-488d-b533-a3103c8f6a10,hamilton.parts,premium,78.54,78.54,medium,m
 9a1adba4-dfca-44ca-818d-b0d8dbb8de19,vanquish.parts,available,10.48,45.98,low,low,8,namecheap,,,09/08/2026 05:32
 e9f6e3aa-2d7e-4cff-ade8-0dc14d8a8cf1,entirety.parts,available,15.99,,high,low,8,name.com,,,
 787edcff-a76c-42bb-8007-a45a92c2a850,district.parts,available,15.99,,medium,low,8,name.com,,,
-41f6c284-179c-4431-b110-cb2e63e42b05,link.parts,premium,82.5,,medium,medium,4,name.com,,,
+41f6c284-179c-4431-b110-cb2e63e42b05,link.parts,premium,78.54,78.54,low,low,4,namesilo,,,22/09/2026 10:11
 9e532b98-7c2f-437c-bc5d-81b59ab526aa,buns.parts,available,10.48,45.98,low,low,4,namecheap,,,09/08/2026 10:54
 4edd7612-6a37-43c9-a0da-e92fa94b44df,susan.parts,available,15.99,,high,low,5,name.com,,,
 0a71528b-6bce-4a0b-bd51-12c3fba1546c,flaring.parts,available,10.48,45.98,low,low,7,namecheap,,,
@@ -260,11 +260,11 @@ ebfb1fa4-51c8-49a0-b4ed-b800c5996828,tyrannical.parts,available,10.48,45.98,low,
 feb54566-ff3b-408f-a77d-11dab91882db,ripe.parts,available,15.99,,medium,low,4,name.com,,,
 1696d0c5-27af-479a-a567-63c21bd12aeb,beggarly.parts,available,10.48,45.98,low,low,8,namecheap,,,09/08/2026 09:01
 43f305f0-5b02-4040-a9c9-02fa6240a3aa,blackpanther.parts,available,15.99,,high,low,13,name.com,,,
-e0d5e127-270d-445a-bf7d-4bccfe3619c5,answering.parts,available,15.99,,high,low,9,name.com,,,
+e0d5e127-270d-445a-bf7d-4bccfe3619c5,answering.parts,available,12.99,41.99,medium,low,9,namesilo,,,22/09/2026 05:38
 1df33739-d9af-4fbd-8c4f-59c984b05350,affixal.parts,available,10.48,45.98,low,low,7,namecheap,,,
-2a52cc8e-cf6d-4344-ba8d-4ba21bbdb8dd,acknowledged.parts,available,15.99,,medium,low,12,name.com,,,
+2a52cc8e-cf6d-4344-ba8d-4ba21bbdb8dd,acknowledged.parts,available,15.99,,low,low,12,name.com,,,
 518089b5-9051-41d7-8f8e-fae822d8face,distinction.parts,available,15.99,,high,low,11,name.com,,,
-dd092a41-fd89-4afd-a5dc-6305b1e3d806,alike.parts,available,15.99,52.99,high,low,5,name.com,,,
+dd092a41-fd89-4afd-a5dc-6305b1e3d806,alike.parts,available,12.99,41.99,low,low,5,namesilo,,,21/09/2026 23:59
 812fe2d9-a18b-4c49-8a66-427cb864c4a7,radar.parts,available,15.99,,high,low,5,name.com,,,
 d4cd8c7d-3486-452c-9d8f-39c53ced7493,perfected.parts,available,15.99,,high,low,9,name.com,,,
 b87e9a1a-7f77-4547-b0e9-34374723dd24,fashion.parts,premium,242,242,high,medium,7,namesilo,,,
@@ -279,7 +279,7 @@ fdb68b1f-b876-42c3-83bf-202cd1a3bb45,nowhere.parts,available,15.99,,high,low,7,n
 ac5ae6b1-bdd0-4071-b250-ce4863d6a4f0,judgment.parts,available,15.99,,medium,low,8,name.com,,,
 a89593d3-3a6d-4687-8e5b-403af36b56a7,howdoyoulike.parts,available,15.99,,medium,low,15,name.com,,,
 46a28721-31a2-48f4-b6ae-5e91df9e93ca,bahrain.parts,available,,,medium,low,7,,,,
-e360a162-5c2b-4f12-8a40-70ad1bb2a578,attended.parts,available,15.99,,medium,low,8,name.com,,,
+e360a162-5c2b-4f12-8a40-70ad1bb2a578,attended.parts,available,12.99,41.99,low,low,8,namesilo,,,22/09/2026 11:17
 fe3eb335-7635-45e8-8c4f-55850daa8b9f,else.parts,available,15.99,,high,low,4,name.com,,,
 edbc52ff-f040-4ff2-b394-df682a1be064,atop.parts,available,15.99,,medium,low,4,name.com,,,
 dff079bd-4121-4712-8566-f48421e333b3,spartacus.parts,available,15.99,,medium,low,9,name.com,,,
@@ -315,7 +315,7 @@ e6dc5fbb-47bd-4756-8ddd-8f01e15bb4ac,dickens.parts,available,15.99,,high,low,7,n
 54084fbc-8f78-498a-ad64-e975783e2d38,feelgood.parts,available,15.99,,high,low,9,name.com,,,
 a4b1e121-bc21-4beb-8541-88c3f8f4439a,actiondoll.parts,available,15.99,,high,low,11,name.com,,,
 13d82dc9-63f6-4dd1-b77b-f2639469f46a,parkingspot.parts,available,15.99,,high,low,12,name.com,,,
-2e054a27-dfef-4ae4-a658-22b431656108,accountability.parts,available,15.99,,high,low,14,name.com,,,
+2e054a27-dfef-4ae4-a658-22b431656108,accountability.parts,available,15.99,,medium,low,14,name.com,,,
 60328d73-8e7a-428d-a35d-523c13676043,often.parts,available,15.99,,high,low,5,name.com,,,
 878aeab4-a536-492f-8c01-f0ee7e15af75,atthat.parts,available,15.99,,high,low,7,name.com,,,
 227c8d6d-adf1-4c2d-b643-88655ccc023d,parched.parts,available,10.48,45.98,low,low,7,namecheap,,,
@@ -357,7 +357,7 @@ e0f9b46f-75fd-4974-a22d-c1c01bf3b65a,much.parts,available,15.99,,high,low,4,name
 6cf6d5b1-19a4-46ff-94e6-26fec4ddc603,alexic.parts,available,10.48,45.98,low,low,6,namecheap,,,
 9f9c57c2-459f-4a10-b322-efc669061009,nosecount.parts,available,15.99,,low,low,10,name.com,,,
 12effc92-5dd5-4fe2-9ca2-83b7db5d46fc,doubt.parts,available,15.99,,high,low,5,name.com,,,
-a41c8d59-1d3d-4c5b-b7d1-fd46e811d98c,twentysix.parts,available,15.99,52.99,high,low,10,name.com,,,
+a41c8d59-1d3d-4c5b-b7d1-fd46e811d98c,twentysix.parts,available,12.99,41.99,medium,low,10,namesilo,,,21/09/2026 12:53
 d2436ab2-92aa-4f79-b681-36a35ca67e5e,baccate.parts,available,10.48,45.98,low,low,7,namecheap,,,08/08/2026 04:03
 f977f69b-2f41-4f11-ab32-c1f8e5ff8c6f,magnifyingglass.parts,available,15.99,,high,low,16,name.com,,,
 6df1915d-ecd8-411a-96df-2b14181f67a9,foreign.parts,premium,242,242,low,low,7,namesilo,,,
@@ -366,7 +366,7 @@ f977f69b-2f41-4f11-ab32-c1f8e5ff8c6f,magnifyingglass.parts,available,15.99,,high
 09fa4328-0ea6-47a1-8489-2b17f6b0be84,roots.parts,available,,,high,low,5,,,,
 d94f2ff8-a273-46d0-8d54-411d01f10b40,battleful.parts,available,10.48,45.98,low,low,9,namecheap,,,09/08/2026 01:39
 0cffeab8-a6c9-4759-93dd-6c3fe9138e84,iseeyou.parts,available,15.99,,medium,low,9,name.com,,,
-671776cd-a3fb-4343-9f97-80fb26c9a06e,absolutely.parts,available,15.99,,high,low,10,name.com,,,
+671776cd-a3fb-4343-9f97-80fb26c9a06e,absolutely.parts,available,15.99,,medium,low,10,name.com,,,
 d650131c-f547-4692-8436-a53cf049f070,beautifully.parts,available,15.99,,medium,low,11,name.com,,,
 31c71ddc-e357-4d24-8efc-75be3045be5a,datatable.parts,available,15.99,,high,low,10,name.com,,,
 5075b40f-cbfc-4bb4-9adc-693a8da09669,toe.parts,premium,82.5,,medium,low,3,name.com,,,
@@ -376,7 +376,7 @@ d1bbc944-0e43-4dfa-ab78-ab4da81a035b,amniotic.parts,available,10.48,45.98,low,lo
 5794f66f-320b-4fe4-b2bd-8accb29f6a24,tonguesushi.parts,available,15.99,,low,low,12,name.com,,,
 6989fd0f-4f50-47d4-9aa5-8b328fc48e04,clicking.parts,available,15.99,,medium,low,8,name.com,,,
 9fbd7548-c629-432a-88fd-434da80f127d,hate.parts,premium,78.54,78.54,high,low,4,namesilo,,,
-f8ac8fee-04e6-4a20-83b2-6c09de114009,off.parts,premium,242,242,high,low,3,namesilo,,,
+f8ac8fee-04e6-4a20-83b2-6c09de114009,off.parts,premium,260,260,low,low,3,namecheap,,,22/09/2026 14:54
 07154bd2-8481-4872-b463-4b878c565770,attempt.parts,available,15.99,,high,low,7,name.com,,,
 46650cc4-1685-4f38-93b6-8d05301fafc3,superbly.parts,available,15.99,,medium,low,8,name.com,,,
 d7be1bfe-dad1-4342-9015-77f390de0d0a,autonomic.parts,available,10.48,45.98,low,low,9,namecheap,,,07/08/2026 20:52
@@ -412,12 +412,12 @@ a6e651f1-d13b-414d-aa9d-d35625cf30d7,natural.parts,available,10.48,45.98,medium,
 64176223-1bda-4928-b0be-9543234f53fa,token.parts,available,15.99,,high,medium,5,name.com,,,
 32ceaa28-0bfe-4192-8f47-92d0db92ee71,intersection.parts,available,15.99,,medium,low,12,name.com,,,
 19dc7130-6f22-410f-90c7-b02a701e6936,lordly.parts,available,10.48,45.98,low,low,6,namecheap,,,07/08/2026 17:05
-571ab7d3-59f5-41a4-9670-852a8ea672ac,anonymous.parts,available,15.99,,medium,low,9,name.com,,,
+571ab7d3-59f5-41a4-9670-852a8ea672ac,anonymous.parts,available,12.99,41.99,low,low,9,namesilo,,,22/09/2026 05:30
 c6781b40-2df0-4e5e-82cf-2120142c95ba,huge.parts,premium,118.8,118.8,high,low,4,namesilo,,,
 cfefd070-61dc-41e8-9203-59bef7c124d3,alabama.parts,premium,78.54,78.54,high,low,7,namesilo,,,
 8096852a-e284-4248-ab7c-c2f68db78131,childofcolour.parts,available,15.99,,medium,low,15,name.com,,,
-646a04ee-8409-40c2-812a-3f997e7d7c0d,choice.parts,available,15.99,52.99,high,low,6,name.com,,,
-64ac330d-b082-44f1-866d-9eef9c66f8ab,improvise.parts,available,15.99,52.99,high,low,9,name.com,,,
+646a04ee-8409-40c2-812a-3f997e7d7c0d,choice.parts,available,12.99,41.99,medium,low,6,namesilo,,,22/09/2026 02:45
+64ac330d-b082-44f1-866d-9eef9c66f8ab,improvise.parts,available,10.48,45.98,medium,low,9,namecheap,,,21/09/2026 16:45
 fac1c0fe-59eb-4c6a-9687-6412f508b04e,spry.parts,available,10.48,45.98,low,low,4,namecheap,,,
 b7a4c2cb-c27d-4f50-94a2-e4428abc77af,payfor.parts,available,15.99,,high,low,7,name.com,,,
 4c3cccb7-8277-4821-b3cb-56ec35d30a26,beefedup.parts,available,10.48,45.98,low,low,9,namecheap,,,09/08/2026 07:44
@@ -425,7 +425,7 @@ b7a4c2cb-c27d-4f50-94a2-e4428abc77af,payfor.parts,available,15.99,,high,low,7,na
 bad9dc7d-7dfa-48ab-b635-2a756cd82146,protection.parts,premium,85.8,85.8,medium,low,10,namecheap,,,19/09/2026 09:47
 52b96ca0-ba35-4d15-b1ec-c2aec1a048cd,earliest.parts,available,15.99,52.99,medium,low,8,name.com,,,
 b9003128-e7fe-4272-869f-3456e0bdcd72,dream.parts,available,15.99,,high,medium,5,name.com,,,
-3ab7148b-2e19-4564-a84f-d73e8c291dc9,banal.parts,available,15.99,,medium,low,5,name.com,,,
+3ab7148b-2e19-4564-a84f-d73e8c291dc9,banal.parts,available,12.99,41.99,low,low,5,namesilo,,,22/09/2026 16:37
 954ed1a7-6831-445f-a041-37e364403262,urgent.parts,available,15.99,,medium,low,6,name.com,,,
 1cad720f-596e-4ae0-ba59-a5d963056268,gotothetoilet.parts,available,15.99,,medium,low,16,name.com,,,
 ab32142e-89af-4ee4-84ef-cfe9debb5bee,singapore.parts,available,,,high,low,9,,,,
@@ -434,11 +434,11 @@ babb4151-a79b-4722-a685-3db93989fbeb,switch.parts,available,,,high,low,6,,,,
 acbf548c-288f-4f85-b8e0-697d504d696b,acquitted.parts,available,10.48,45.98,low,low,9,namecheap,,,
 d7d7e224-9b8d-4105-8dce-53152ff6667a,very.parts,available,15.99,,high,low,4,name.com,,,
 af41863f-ed4a-4380-b12c-29921cf75b37,pieceofpaper.parts,available,15.99,,low,low,14,name.com,,,
-b614fab2-8a01-4f4f-879b-4a3a78251c33,likewise.parts,available,15.99,52.99,medium,low,8,name.com,,,
+b614fab2-8a01-4f4f-879b-4a3a78251c33,likewise.parts,available,12.99,41.99,low,low,8,namesilo,,,22/09/2026 00:06
 5c8dcd96-295b-4d70-a608-f9ac51f649ff,blessing.parts,available,10.48,45.98,low,low,8,namecheap,,,06/08/2026 09:29
-d0bddc56-daf9-428b-8fef-5ae6526506f0,out.parts,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 10:34
+d0bddc56-daf9-428b-8fef-5ae6526506f0,out.parts,premium,85.8,85.8,medium,low,3,namecheap,,,23/09/2026 05:30
 e5c211b9-e125-42d6-b2d2-de93f0982475,beauteous.parts,available,10.48,45.98,low,low,9,namecheap,,,09/08/2026 05:58
-01824995-cd4e-47fc-9d02-94b2ea2e14ae,accept.parts,available,15.99,,high,low,6,name.com,,,
+01824995-cd4e-47fc-9d02-94b2ea2e14ae,accept.parts,available,15.99,,medium,low,6,name.com,,,
 c053033c-55ed-4243-958e-c9b8231d1dd0,board.parts,available,15.99,,medium,low,5,name.com,,,
 6359e9bf-2d09-4f0b-a8ce-bef4c6e3f7a5,ally.parts,available,,,medium,low,4,,,,
 f38d545b-ced9-42ce-a1c1-ced7c11a5092,surfer.parts,available,15.99,,high,low,6,name.com,,,
@@ -448,7 +448,7 @@ fb47839e-24a0-4376-bbfc-27ff3f457268,violation.parts,available,15.99,,medium,low
 e8099b97-a807-4bbf-8aae-681012662482,mon.parts,premium,46.2,46.2,high,low,3,namecheap,,,
 44082c1a-dece-4148-b6d7-28cab4280c95,bloodclot.parts,available,15.99,,medium,low,10,name.com,,,
 0bc64468-84f3-49f6-8e60-c7d44d22baa0,amoebic.parts,available,10.48,45.98,low,low,7,namecheap,,,
-0a92be88-f697-40e4-8e4f-5dcba0e038b5,nimble.parts,available,15.99,52.99,high,low,6,name.com,,,
+0a92be88-f697-40e4-8e4f-5dcba0e038b5,nimble.parts,available,12.99,41.99,medium,low,6,namesilo,,,21/09/2026 23:05
 4e233b30-91e8-4c73-b755-baaa630c4e9e,lego.parts,available,,,high,low,4,,,,
 1f37853a-0341-40ef-853f-1ec909e79473,daddy.parts,available,15.99,,high,low,5,name.com,,,
 a7f02b6c-f0c5-4027-9ff8-a46b1ce8a273,bringing.parts,available,15.99,,medium,low,8,name.com,,,
@@ -482,12 +482,12 @@ d368d4c1-82d1-4353-a250-93b38970263f,exhaustsystem.parts,available,15.99,,medium
 eae71608-6f25-4c67-b05b-d5f856e304af,prioritize.parts,available,15.99,,high,low,10,name.com,,,
 08b6dec3-4bb3-4063-b0de-be2a29c33fb8,hokey.parts,available,10.48,45.98,low,low,5,namecheap,,,09/08/2026 00:37
 5046c161-b1be-48af-8454-9da40ef0c5ad,inreturn.parts,available,15.99,,medium,low,9,name.com,,,
-fce300b6-afd7-44af-a526-f72669debc86,balanced.parts,available,15.99,,high,low,8,name.com,,,
+fce300b6-afd7-44af-a526-f72669debc86,balanced.parts,available,12.99,41.99,medium,low,8,namesilo,,,22/09/2026 16:28
 982b5c5a-c4f4-49ce-bab8-b3ef39beb7d1,summoned.parts,available,15.99,,low,low,8,name.com,,,
 13d765b1-6546-46d5-beeb-f8fe5787deef,radical.parts,available,10.48,45.98,medium,low,7,namecheap,,,08/08/2026 21:21
 ef83bf2a-a8fc-401a-ac3a-47346b1ef7ae,wintersun.parts,available,15.99,,medium,low,10,name.com,,,
 b94a2d2c-d858-403c-b867-19e8d1c2321e,aleatory.parts,available,10.48,45.98,low,low,8,namecheap,,,
-4aac57ad-7c5f-46f5-b7bb-f634d8f1d038,blueish.parts,available,15.99,,high,low,7,name.com,,,
+4aac57ad-7c5f-46f5-b7bb-f634d8f1d038,blueish.parts,available,12.99,41.99,low,low,7,namesilo,,,22/09/2026 22:51
 fbf9d626-c803-449e-96c8-8a93f7b0a98a,england.parts,premium,78.54,78.54,high,low,7,namesilo,,,
 ebaf9f8b-1117-4c52-8253-ffdd8f18e217,supervisor.parts,available,15.99,,medium,low,10,name.com,,,
 432ff6b0-549f-4337-8f0e-5d9278ec56e0,stuck.parts,available,15.99,,medium,low,5,name.com,,,
@@ -518,7 +518,7 @@ b4e85302-50be-4338-a6b1-33d6f6cebb12,impulse.parts,available,15.99,,high,low,7,n
 e3be4f04-85ee-4746-a5ee-4cdce94ce435,trimback.parts,available,15.99,,medium,low,9,name.com,,,
 94f0bbe0-ae5f-4c6d-aaa7-745c81ffa71c,intend.parts,available,15.99,,high,low,6,name.com,,,
 329e4246-ef53-48d2-97fa-29025b4f54ff,letterofthelaw.parts,available,15.99,,medium,low,17,name.com,,,
-4d5983ab-ab45-457f-9c29-dc3493780054,bluish.parts,available,15.99,,high,low,6,name.com,,,
+4d5983ab-ab45-457f-9c29-dc3493780054,bluish.parts,available,12.99,41.99,low,low,6,namesilo,,,22/09/2026 22:47
 75122a96-525c-46bb-a0b5-25f4d53cbd96,diverted.parts,available,10.48,45.98,low,low,8,namecheap,,,
 f0234368-9610-40bb-abd9-798b9a6d9e6b,southkorea.parts,available,15.99,,low,low,11,name.com,,,
 58614905-38eb-4c15-b99f-ab28a9a0ef5a,tel.parts,premium,500,,medium,low,3,name.com,,,
@@ -541,17 +541,17 @@ c14f54d4-b678-4d6a-9a99-d87d675971eb,colors.parts,available,15.99,,high,low,6,na
 9dc9674d-f739-4786-9f57-ba1a1335e470,kindness.parts,available,15.99,,high,low,8,name.com,,,
 61574f47-8200-41cf-ab4c-6c2029faae46,knowwhat.parts,available,15.99,,medium,low,9,name.com,,,
 18bb6bde-0b5e-4e98-a115-aa8c3265af70,wound.parts,available,15.99,,high,low,5,name.com,,,
-de85425f-3812-46ba-a1dd-4981632e1ac3,xxii.parts,available,15.99,52.99,medium,low,4,name.com,,,
+de85425f-3812-46ba-a1dd-4981632e1ac3,xxii.parts,available,12.99,41.99,low,low,4,namesilo,,,21/09/2026 12:40
 357d6e2a-5842-4d0d-a70f-5d4f922462d4,potential.parts,available,15.99,,high,low,9,name.com,,,
 c990fed0-0193-4f60-b343-637833e9833a,pissabout.parts,available,15.99,,low,low,10,name.com,,,
 4b2e40e3-4a66-4132-b794-2cd10129eeb7,thisway.parts,available,15.99,,low,low,8,name.com,,,
-1b49b6a1-e885-4f10-bdd2-11951836120e,angelic.parts,available,15.99,,high,low,7,name.com,,,
+1b49b6a1-e885-4f10-bdd2-11951836120e,angelic.parts,available,10.48,45.98,medium,low,7,namecheap,,,22/09/2026 04:25
 22331d17-91d9-4bd9-92ad-f4744ecc11ee,autogenous.parts,available,10.48,45.98,low,low,10,namecheap,,,07/08/2026 20:16
 503ea8a6-0fe0-4df7-8724-670fc17dac10,dynamic.parts,available,15.99,52.99,high,low,7,name.com,,,
-0509e89f-0483-46fb-845d-516e92505310,aaa.parts,premium,260,260,high,medium,3,namecheap,,,
+0509e89f-0483-46fb-845d-516e92505310,aaa.parts,premium,260,260,medium,medium,3,namecheap,,,
 34083ea2-c0ee-4629-b187-2920e1b6e22a,arbitrary.parts,available,10.48,45.98,low,low,9,namecheap,,,06/08/2026 12:54
 a556d737-9b3e-478a-90ad-5737c5dd00a3,agonizing.parts,available,10.48,45.98,low,low,9,namecheap,,,
-2a39a910-2782-42a9-a31b-ac703af69f0f,agreeable.parts,available,15.99,52.99,high,low,9,name.com,,,
+2a39a910-2782-42a9-a31b-ac703af69f0f,agreeable.parts,available,12.99,41.99,medium,low,9,namesilo,,,21/09/2026 23:17
 2157dea4-8892-470c-b617-dcae151f567e,desktopcomputer.parts,available,15.99,,high,low,16,name.com,,,
 26afecb3-fb53-4113-bb1e-76ecdf27d0ea,embrace.parts,available,15.99,,high,low,7,name.com,,,
 813dfc21-1f91-426e-ad34-6f398591fb52,exercisebicycle.parts,available,15.99,,high,low,16,name.com,,,
@@ -601,7 +601,7 @@ ec65e2c9-6558-4fcf-acf6-e67b7c8e2c7b,nationalconvention.parts,available,15.99,,m
 9a7dce09-4265-4210-913a-d8539dea0579,turnahair.parts,available,15.99,,low,low,11,name.com,,,
 024dd5c5-4ca5-4290-9140-df5644f326a3,welfare.parts,available,10.48,45.98,medium,low,7,namecheap,,,08/09/2026 03:13
 ca1945cf-031b-41f3-ab6c-6e45a896d1d8,somebody.parts,available,15.99,,high,low,8,name.com,,,
-5e0eeddb-23d5-48fc-bbbe-8e2efd1c2798,bass.parts,premium,118.8,118.8,medium,low,4,namesilo,,,
+5e0eeddb-23d5-48fc-bbbe-8e2efd1c2798,bass.parts,premium,128.7,128.7,low,low,4,namecheap,,,22/09/2026 18:00
 4c9f83fb-a593-4f0a-84ea-df6c89e5d368,setaside.parts,available,10.48,45.98,low,low,9,namecheap,,,06/08/2026 09:13
 ff3ccb74-39dc-4f27-8a8f-db8b2274bc9d,tabby.parts,available,15.99,,medium,low,5,name.com,,,
 ef2a1342-3508-4018-b344-affcd8ad4931,outsideof.parts,available,15.99,,medium,low,10,name.com,,,
@@ -653,10 +653,10 @@ f2ba93d8-8d7e-4aea-9094-5137cad4e895,whogoesthere.parts,available,15.99,,low,low
 332763ec-62aa-4af6-a60d-1455c3262476,knock.parts,available,15.99,,medium,low,5,name.com,,,
 99e6727c-5897-4e6f-9ae9-c760c7cc93bb,ninetysix.parts,available,10.48,45.98,low,low,10,namecheap,,,
 1fcee676-6054-4564-8a70-45a76c22352c,uptodate.parts,available,15.99,52.99,high,low,10,name.com,,,
-042ce6c2-92f1-4f78-8f84-9a82ea319e4c,awakened.parts,available,15.99,,medium,low,8,name.com,,,
+042ce6c2-92f1-4f78-8f84-9a82ea319e4c,awakened.parts,available,12.99,41.99,low,low,8,namesilo,,,22/09/2026 14:47
 925a00ab-13e9-451e-b66b-136dcba7ef67,nowadays.parts,available,15.99,,medium,low,8,name.com,,,
 e5377944-66b2-4a0d-a961-d5ea61cfc380,saveit.parts,available,15.99,,medium,low,7,name.com,,,
-896fb8ab-04fa-45bc-8adc-c73824cdf58d,root.parts,available,15.99,,medium,medium,4,name.com,,,
+896fb8ab-04fa-45bc-8adc-c73824cdf58d,root.parts,available,12.99,41.99,medium,low,4,namesilo,,,22/09/2026 05:53
 6dccac8b-30bf-4bb4-97f9-c4057e44a1d0,entitled.parts,available,15.99,,medium,low,8,name.com,,,
 1bacc374-afe3-427e-a7dc-9e01fff4b7e4,carnal.parts,available,10.48,45.98,low,low,6,namecheap,,,
 36faa845-09ac-4859-aa9a-5f4253837d02,stagingarea.parts,available,15.99,,medium,low,12,name.com,,,
@@ -677,7 +677,7 @@ c48d1857-bef9-4c4b-b98d-415def62efee,played.parts,available,15.99,,high,low,6,na
 8aaa9820-b5ff-4f08-aedd-bf179815bb41,fifty.parts,available,10.48,45.98,low,low,5,namecheap,,,
 e705abed-efa3-4ce7-b3cb-6914874fbc82,appendant.parts,available,10.48,45.98,low,low,9,namecheap,,,06/08/2026 06:34
 6f07c206-2e97-41aa-aa19-d1beffc69ef6,untypical.parts,available,10.48,45.98,low,low,9,namecheap,,,07/08/2026 16:10
-3e95189a-33d8-4ac0-9175-efa53b36dcb3,isolated.parts,available,15.99,,medium,low,8,name.com,,,
+3e95189a-33d8-4ac0-9175-efa53b36dcb3,isolated.parts,available,10.48,45.98,low,low,8,namecheap,,,22/09/2026 07:07
 42e5a2ab-e338-4f34-9c2b-77166a4e8762,hanukah.parts,available,15.99,,high,low,7,name.com,,,
 4469ba53-b2e3-4666-8ecb-910ca90e49b1,avellan.parts,available,10.48,45.98,low,low,7,namecheap,,,07/08/2026 22:24
 ea03558b-dd68-4527-87b3-0a20c88b3f4c,fidgety.parts,available,10.48,45.98,low,low,7,namecheap,,,05/08/2026 20:32
@@ -685,9 +685,9 @@ ccf9a774-f50f-4b92-8878-47373e69f461,midfebruary.parts,available,15.99,,high,low
 d3cf536e-d31f-49f1-8002-a2ba4e27e674,afflicted.parts,available,10.48,45.98,low,low,9,namecheap,,,
 084450fc-39f4-424d-9478-ea4d163b60d0,descend.parts,available,15.99,,high,low,7,name.com,,,
 78e30af6-5d99-49a4-8090-f0a5e2392a18,number.parts,premium,118.8,118.8,high,low,6,namesilo,,,
-fef4c8be-8bb0-424c-bba2-a321c90ba134,born.parts,available,15.99,,high,low,4,name.com,,,
+fef4c8be-8bb0-424c-bba2-a321c90ba134,born.parts,available,10.48,45.98,medium,low,4,namecheap,,,23/09/2026 00:37
 7fcbdddb-be73-4023-ab22-3ecae8bd7a32,assentient.parts,available,10.48,45.98,low,low,10,namecheap,,,07/08/2026 05:48
-4491fcb1-5e46-448b-b520-07fee61ce98a,aseptic.parts,available,15.99,,high,low,7,name.com,,,
+4491fcb1-5e46-448b-b520-07fee61ce98a,aseptic.parts,available,12.99,41.99,low,low,7,namesilo,,,22/09/2026 09:33
 9a513dc4-e55b-4c8a-a4f4-9c2f480455f3,humanity.parts,available,15.99,,high,low,8,name.com,,,
 976cb28e-9371-4ba0-bd98-130e4e93f1e7,thinkof.parts,available,15.99,,medium,low,8,name.com,,,
 71b0ac4c-959c-46bb-8e84-4a51266f0289,postoffice.parts,available,15.99,,medium,low,11,name.com,,,
@@ -707,7 +707,7 @@ f3dd2cbd-fb78-48b7-b879-869e1787ddc8,tohell.parts,available,15.99,,low,low,7,nam
 fb537dfc-e332-498e-96de-9379a52e876c,constantly.parts,available,15.99,,medium,low,10,name.com,,,
 0e52e004-a2eb-4404-8dbe-169eb79a37c4,gramme.parts,available,15.99,,medium,low,6,name.com,,,
 b58a669b-0dcc-4132-81f1-27f3388c2025,devise.parts,available,15.99,,high,low,6,name.com,,,
-2d884df6-7b50-49e6-bb79-071352e850b8,doable.parts,available,15.99,52.99,high,low,6,name.com,,,
+2d884df6-7b50-49e6-bb79-071352e850b8,doable.parts,available,12.99,41.99,medium,low,6,namesilo,,,21/09/2026 15:46
 0ebcdaa1-9d87-4520-97bc-181dfdd99825,however.parts,available,15.99,,high,low,7,name.com,,,
 46c19b9f-fd51-4e1e-9458-840d9b3c9e5f,apposite.parts,available,10.48,45.98,low,low,8,namecheap,,,06/08/2026 07:53
 1fed24fe-1869-4e77-b148-da89dc12373f,allowable.parts,available,10.48,45.98,low,low,9,namecheap,,,
@@ -720,29 +720,28 @@ d96e7fb2-8e81-452d-98a9-155933033595,bucketlist.parts,available,15.99,,high,low,
 e212e274-748d-4913-b554-6803b41eedc3,preventive.parts,available,15.99,52.99,high,low,10,name.com,,,
 b5d4df5e-494a-407e-bdc5-bba96e00d852,nowwhat.parts,available,15.99,,low,low,8,name.com,,,
 544b9457-b774-4f42-9e6f-283626c51730,modal.parts,available,15.99,,high,low,5,name.com,,,
-bb72fdb9-2afa-4bd5-82f9-402b81bfcbe3,observed.parts,available,15.99,,medium,low,8,name.com,,,
+bb72fdb9-2afa-4bd5-82f9-402b81bfcbe3,observed.parts,available,12.99,41.99,low,low,8,namesilo,,,22/09/2026 09:25
 ca406ed0-f354-41d5-a1b1-b6e0fb5878e8,schmalzy.parts,available,10.48,45.98,low,low,8,namecheap,,,09/08/2026 01:09
 962738d9-a2eb-4d12-8b28-82ad75985743,crash.parts,available,15.99,,high,low,5,name.com,,,
-085d191e-2cbb-4da8-a84c-18ed898b4c5d,answerable.parts,available,15.99,,high,low,10,name.com,,,
+085d191e-2cbb-4da8-a84c-18ed898b4c5d,answerable.parts,available,12.99,41.99,medium,low,10,namesilo,,,22/09/2026 05:32
 f5c63dd4-b6de-47c4-98c9-57e3cea309c6,coldrubber.parts,available,15.99,,medium,low,11,name.com,,,
 0c86db58-491b-4e6a-8ef2-0b656e30d7de,howyousay.parts,available,15.99,,medium,low,11,name.com,,,
-9246379f-93da-438d-a3f2-6fd3167ece77,deuce.parts,available,15.99,52.99,medium,low,5,name.com,,,
+9246379f-93da-438d-a3f2-6fd3167ece77,deuce.parts,available,12.99,41.99,low,low,5,namesilo,,,21/09/2026 12:17
 071dac03-92fd-4170-8356-6a0034396b2e,commoncold.parts,available,15.99,,medium,low,11,name.com,,,
 909f6361-6e90-46ab-9ec9-a06c85f8e356,placatory.parts,available,10.48,45.98,low,low,9,namecheap,,,06/08/2026 06:12
-78d2c775-a352-4f52-9170-a8cf67a0eb2f,fearless.parts,available,15.99,,high,low,8,name.com,,,
+78d2c775-a352-4f52-9170-a8cf67a0eb2f,fearless.parts,available,12.99,41.99,medium,low,8,namesilo,,,22/09/2026 12:19
 7b3344ae-28dc-4173-b22e-f82b73f78298,insect.parts,available,15.99,,medium,low,6,name.com,,,
-0e7ca0ca-0397-4b0b-9079-2285b7f90e5c,flat.parts,premium,123.75,123.75,high,low,4,name.com,,,
-f03fb9a1-6f67-4baf-b973-3b56efbb7e7e,audible.parts,available,,,high,high,7,,,,
+0e7ca0ca-0397-4b0b-9079-2285b7f90e5c,flat.parts,premium,118.8,118.8,medium,low,4,namesilo,,,21/09/2026 12:19
 6e7a96d6-6bce-4cf5-93b1-5fea03baed9d,borne.parts,available,15.99,,medium,low,5,name.com,,,
 2ee030b0-a39a-4b8f-81e3-3081ccdae2c1,reflection.parts,available,15.99,,high,low,10,name.com,,,
 a1a84f99-e9bb-49d5-8ff1-6c669345ef03,longer.parts,available,15.99,,high,low,6,name.com,,,
 4aa38381-fc64-4845-a7b4-4968c8541369,sedulous.parts,available,10.48,45.98,low,low,8,namecheap,,,07/08/2026 06:14
-e249d15a-f51b-473e-b071-fef6bed1988e,older.parts,premium,82.5,82.5,medium,low,5,name.com,,,
+e249d15a-f51b-473e-b071-fef6bed1988e,older.parts,premium,78.54,78.54,low,low,5,namesilo,,,21/09/2026 22:32
 31e4975c-e8f4-4950-9f5f-904af86bdab2,campaigning.parts,available,15.99,,medium,low,11,name.com,,,
 14cb7efd-b876-4ae7-9639-db0e62073876,date.parts,premium,82.5,,high,low,4,name.com,,,
-11dedeee-959f-450e-9aa6-4c63f3ac3198,abovethefold.parts,available,15.99,,medium,low,14,name.com,,,
+11dedeee-959f-450e-9aa6-4c63f3ac3198,abovethefold.parts,available,15.99,,low,low,14,name.com,,,
 7b88a543-1bfd-4925-84be-91740deaf4f4,enterthepicture.parts,available,15.99,,medium,low,17,name.com,,,
-7cfc4cfe-a8c6-43f9-85af-c5d294283669,goon.parts,available,15.99,52.99,high,low,5,name.com,,,
+7cfc4cfe-a8c6-43f9-85af-c5d294283669,goon.parts,available,12.99,41.99,medium,low,5,namesilo,,,21/09/2026 20:43
 ac1523c0-ecae-4d83-893d-d0556a70ec4f,territory.parts,available,15.99,,high,low,9,name.com,,,
 252222ac-1ef1-4f22-b4ff-30f2b3b4f9f5,matched.parts,available,15.99,,high,low,7,name.com,,,
 edb15474-f4af-4eda-a854-0e7784fd3d89,comparatively.parts,available,15.99,,medium,low,13,name.com,,,
@@ -762,14 +761,14 @@ aef002fa-c854-4902-81db-950563cf8953,gobothways.parts,available,15.99,,medium,lo
 f869ae0f-a673-40ed-955e-b4207403a2be,skyblue.parts,available,10.48,45.98,medium,low,8,namecheap,,,08/08/2026 03:14
 22f320a5-8038-466a-a6a1-d6f95c591191,improvize.parts,available,10.48,45.98,low,low,9,namecheap,,,
 738c0389-843e-449a-bc72-58bd6c8f0935,portable.parts,available,15.99,,high,low,8,name.com,,,
-12b035be-9c0c-4b39-9939-ea97f00f25a8,lovely.parts,available,15.99,52.99,high,low,6,name.com,,,
+12b035be-9c0c-4b39-9939-ea97f00f25a8,lovely.parts,available,10.48,45.98,low,low,6,namecheap,,,21/09/2026 19:31
 99a3be15-1d85-4775-b58d-2cef094d7075,letalone.parts,available,15.99,,medium,low,9,name.com,,,
 bc272565-b3a4-4b61-b05f-b6f40ee720d0,appropriately.parts,available,15.99,,medium,low,13,name.com,,,
 4551aaaa-57d2-41c4-b51e-44771fbee7a3,brighten.parts,available,15.99,,high,low,8,name.com,,,
 6b0de08d-19cd-458b-bed2-4dd0be9a35f5,add.parts,premium,78.54,78.54,high,low,3,namesilo,,,
 4dc8f749-ef22-4414-954b-e2194b8cef6f,david.parts,premium,78.54,78.54,high,medium,5,namesilo,,,
 f8250417-17bc-4da7-ad68-241c1926d0ee,smile.parts,premium,118.8,118.8,high,medium,5,namesilo,,,
-a69e6f25-26ff-481f-9007-26570c4e37ae,remove.parts,available,15.99,52.99,high,low,6,name.com,,,
+a69e6f25-26ff-481f-9007-26570c4e37ae,remove.parts,available,12.99,41.99,medium,low,6,namesilo,,,21/09/2026 14:40
 18f6d116-42ec-42a3-87fd-24d738179911,alpestrine.parts,available,10.48,45.98,low,low,10,namecheap,,,
 09574079-d554-4d02-b8a9-8af130e22a2c,optic.parts,available,,,high,low,5,,,,
 fc829f1f-2f49-42f0-83a8-46d4ea8f799b,astonish.parts,available,15.99,,high,low,8,name.com,,,
@@ -789,7 +788,7 @@ c8f2f166-e224-4339-945b-97008e65b15f,advocate.parts,available,15.99,,high,low,8,
 a9730de6-7433-4a9e-98f0-f822fd65617e,outofaction.parts,available,15.99,,low,low,13,name.com,,,
 acb740f4-1296-4407-92bf-e2afbe6849f1,infant.parts,available,15.99,,high,low,6,name.com,,,
 b7d5b4ae-be6a-47fe-ae1e-6fa70e837f06,shakealeg.parts,available,15.99,,low,low,11,name.com,,,
-59c47b4c-3b43-4bd9-8aa8-9a919bfc8bbe,endearing.parts,available,15.99,52.99,high,low,9,name.com,,,
+59c47b4c-3b43-4bd9-8aa8-9a919bfc8bbe,endearing.parts,available,10.48,45.98,medium,low,9,namecheap,,,21/09/2026 19:24
 9f3be921-903b-4c3a-802e-8a580119e35b,roman.parts,available,15.99,,high,low,5,name.com,,,
 fc888d09-ff98-417d-9fda-fe884ec50194,authorial.parts,available,10.48,45.98,low,low,9,namecheap,,,07/08/2026 16:19
 6eec0520-0000-42fb-b360-eead2909967b,overjoy.parts,available,15.99,,high,low,7,name.com,,,
@@ -806,23 +805,22 @@ cdb45e89-57a7-4110-9bee-4f83641059ae,teammate.parts,available,15.99,,high,low,8,
 79de06a9-a487-46dc-98ae-9169439b52ee,solo.parts,premium,78.54,78.54,high,medium,4,namesilo,,,
 13f48005-775e-4de6-8dac-d282ac6dd54c,dizzy.parts,available,10.48,45.98,low,low,5,namecheap,,,
 1937fe20-b4b3-4e6e-9f96-8c40f54a2e94,disabled.parts,available,15.99,52.99,high,low,8,name.com,,,
-05f802bd-0747-46a6-b495-303d9ff6fd53,binary.parts,available,15.99,,high,low,6,name.com,,,
+05f802bd-0747-46a6-b495-303d9ff6fd53,binary.parts,available,12.99,41.99,medium,low,6,namesilo,,,22/09/2026 20:45
 3134b139-606e-42c3-bd14-b2113c92418a,possibly.parts,available,15.99,,medium,low,8,name.com,,,
 980154f0-d2ee-4bfc-9e6e-80fbaa46f2c7,fungicidal.parts,available,10.48,45.98,low,low,10,namecheap,,,
-d5a95223-5e49-4b4b-97b7-86da360fcd29,zero.parts,available,15.99,52.99,high,medium,4,name.com,,,
 c5619b74-f7da-4b6c-8143-7e4d53083a82,aphakic.parts,available,10.48,45.98,low,low,7,namecheap,,,05/08/2026 22:56
 297850c1-9bbb-4d5b-b566-b01c0b8c0d6a,adjunct.parts,available,10.48,45.98,low,low,7,namecheap,,,
-89a52385-1efc-480b-bb81-318552dd0936,accountstatement.parts,available,15.99,,medium,low,17,name.com,,,
+89a52385-1efc-480b-bb81-318552dd0936,accountstatement.parts,available,15.99,,low,low,17,name.com,,,
 2d0219bb-c10c-4218-ac3b-2f1046ddd949,partyhat.parts,available,15.99,,high,low,9,name.com,,,
 c7bc22e6-4135-40a5-a25d-4c69297904d6,drift.parts,available,15.99,,high,low,5,name.com,,,
 b7fcb067-9b47-4e76-b2f5-5a527922dc68,asinine.parts,available,10.48,45.98,low,low,7,namecheap,,,07/08/2026 02:35
 30f38a45-19b5-496b-a6a1-867125095c5d,dignitary.parts,available,15.99,,high,low,9,name.com,,,
-4a7ce29d-e47a-4fbd-8e16-63070a3937aa,justabout.parts,available,15.99,52.99,medium,low,10,name.com,,,
+4a7ce29d-e47a-4fbd-8e16-63070a3937aa,justabout.parts,available,12.99,41.99,low,low,10,namesilo,,,21/09/2026 14:09
 b881f8fd-37e1-4795-83b0-fdbad916ff17,blades.parts,premium,38.94,38.94,medium,low,6,namesilo,,,
 4ac99ead-ceaf-45d8-833c-bd7756a5fd7c,cockmaster.parts,available,15.99,,medium,low,10,name.com,,,
 b5351112-af72-4e35-9bb8-635c6e66f0cb,makegood.parts,available,15.99,,high,low,9,name.com,,,
 c5296f87-452b-4f20-934c-a70de2db2200,bflat.parts,available,15.99,,medium,low,6,name.com,,,
-6af6503a-425f-4e66-b97a-0f5b7e0d1afb,education.parts,premium,118.8,118.8,medium,low,9,namesilo,,,19/09/2026 06:14
+6af6503a-425f-4e66-b97a-0f5b7e0d1afb,education.parts,premium,118.8,118.8,medium,low,9,namesilo,,,23/09/2026 04:28
 881e6782-4371-4e05-ad47-7c97d4c63b4a,closetogether.parts,available,15.99,,medium,low,14,name.com,,,
 10538fe7-01e0-40dc-bc15-eed58af44d9e,execrable.parts,available,10.48,45.98,low,low,9,namecheap,,,
 8cb4008a-1fee-47c9-a4e2-8ddd15e2816c,collarbone.parts,available,15.99,,medium,low,11,name.com,,,
@@ -841,7 +839,7 @@ edc03cf7-18b8-4734-8861-8a76811af314,forecloser.parts,available,15.99,,medium,lo
 56fe4b2c-2d56-47db-935d-fbd37962e065,fervent.parts,available,10.48,45.98,low,low,7,namecheap,,,06/08/2026 16:14
 b5fa99d5-a5c0-46d1-8eea-8e085c1c0206,breathefreely.parts,available,15.99,,high,low,14,name.com,,,
 5bb358e6-1a9a-4e4a-80b5-52f1e22766bf,christmascarol.parts,available,15.99,,high,low,15,name.com,,,
-1a7c0c73-6dc5-4eef-8798-df996b190265,annoyed.parts,available,15.99,,medium,low,7,name.com,,,
+1a7c0c73-6dc5-4eef-8798-df996b190265,annoyed.parts,available,10.48,45.98,low,low,7,namecheap,,,22/09/2026 05:18
 8f452ec3-79fd-4ddc-b558-af002fd27669,describe.parts,available,15.99,,high,low,8,name.com,,,
 8a405d08-146e-4f54-acb7-7b234610cad0,zoologicalpark.parts,available,15.99,,high,low,15,name.com,,,
 5545bcbf-c6f9-457a-a997-81c20a172262,flack.parts,available,10.48,45.98,low,low,5,namecheap,,,
@@ -895,7 +893,6 @@ ee78722e-c9ea-4d49-8039-deb140811e52,quickness.parts,available,15.99,,high,low,9
 1791ba35-a4c8-4c39-808a-98f78552519c,returnticket.parts,available,15.99,,high,low,13,name.com,,,
 1864d059-75ba-476c-8cc2-daea041e71fc,seats.parts,premium,78.54,78.54,high,low,5,namesilo,,,
 23297318-418d-498a-85a2-33527975bd28,lockbox.parts,available,15.99,,medium,low,7,name.com,,,
-619427f0-3a7b-4d2a-80f7-a078581e9f42,aussie.parts,available,,,high,high,6,,,,
 6334665d-c1be-44ec-bb95-383d05c66092,atall.parts,available,15.99,,medium,low,6,name.com,,,
 b4ce3fe4-d174-4c81-9d82-a22ddeb780f9,bald.parts,available,10.48,45.98,low,low,4,namecheap,,,08/08/2026 09:16
 811d901f-d5fb-4a21-a8b0-1eae23c4c9a7,experimentally.parts,available,15.99,,medium,low,14,name.com,,,
@@ -903,7 +900,7 @@ b4ce3fe4-d174-4c81-9d82-a22ddeb780f9,bald.parts,available,10.48,45.98,low,low,4,
 a7e54545-1ca8-45e3-ab74-ff4de803fc4f,whatittakes.parts,available,15.99,,low,low,13,name.com,,,
 9336ab20-b6bd-4793-98c3-3fc5c1420a0d,tailend.parts,available,10.48,45.98,low,low,8,namecheap,,,09/08/2026 11:36
 5b53fbce-34dc-4fa1-bf48-45c4132a54fa,amitotic.parts,available,10.48,45.98,low,low,8,namecheap,,,
-9f593cc1-5be2-4448-a6c2-057ca265cd7e,wide.parts,available,15.99,52.99,high,low,4,name.com,,,
+9f593cc1-5be2-4448-a6c2-057ca265cd7e,wide.parts,available,12.99,41.99,low,low,4,namesilo,,,21/09/2026 16:15
 ad59c1bb-7ee1-414c-96d9-77619f4697b1,fairy.parts,available,15.99,,high,low,5,name.com,,,
 1bc6040c-27f7-493f-b9b4-5027af6938aa,afebrile.parts,available,10.48,45.98,low,low,8,namecheap,,,
 28a82679-5b68-4d47-a2a9-4bb88e3b73f9,bytheway.parts,available,15.99,,medium,low,10,name.com,,,
@@ -946,7 +943,7 @@ dd7ec8c5-03d5-4ffb-8d15-8bc207116e0a,profess.parts,available,15.99,,high,low,7,n
 451f5b81-18fb-4ad5-8b86-cff3d05259b2,enterthechat.parts,available,15.99,,medium,low,14,name.com,,,
 1ecd2873-540b-4bfe-a804-6411ec23cf4e,thousandth.parts,available,,,high,low,10,,,,
 a632e795-3267-4745-97c3-00c669bd2ee3,neighbor.parts,available,15.99,,medium,low,8,name.com,,,
-0a657267-e376-4641-a9eb-e25f884fb14a,acute.parts,available,15.99,52.99,high,low,5,name.com,,,
+0a657267-e376-4641-a9eb-e25f884fb14a,acute.parts,available,12.99,41.99,medium,low,5,namesilo,,,21/09/2026 16:39
 aeea4fb7-4555-4b4d-9437-e4905d225ae4,inthehotseat.parts,available,15.99,,medium,low,15,name.com,,,
 5b8299c7-0210-46cf-8d86-456984529aff,shapeless.parts,available,10.48,45.98,low,low,9,namecheap,,,
 e3858b27-0459-4826-a75c-b8d8d47102ee,textbook.parts,available,15.99,,high,low,8,name.com,,,
@@ -999,3 +996,6 @@ c3871f76-4772-485c-915b-8f914e8bd10b,expand.parts,available,15.99,52.99,high,low
 19cb30f0-6073-4855-97fa-8b4260ad34dd,lobby.parts,available,15.99,,high,low,5,name.com,,,
 5c6da12b-1392-4d4d-8c7e-8e4006c91120,los.parts,premium,82.5,,high,low,3,name.com,,,
 90024998-4e14-42f7-a168-5793a619f415,loco.parts,available,10.48,45.98,low,low,4,namecheap,,,06/08/2026 21:13
+699ac40a-ce9d-4597-b577-31c1a9f17046,bats.parts,available,10.48,45.98,low,low,4,namecheap,,,06/08/2026 20:31
+872c9787-8320-4b7e-9b87-0be22ac48ac0,publicschool.parts,available,15.99,,high,low,13,name.com,,,
+e0649810-84e4-4774-b17b-81a8c5227ce7,eyrie.parts,available,10.48,45.98,low,low,5,namecheap,,,
