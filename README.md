@@ -1,10 +1,10 @@
-# Available .PARTS One-Word Domains (32,269)
+# Available .PARTS One-Word Domains (22,567)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C269%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C567%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .parts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,269 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,567 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,269 domains · **Median ask:** $15.13 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 22,567 domains · **Median ask:** $16.74 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/parts`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| ain.parts     | available | $10.48    | $45.98        | high           | low    | 3      | namecheap            |
-| tap.parts     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC     |
-| aaa.parts     | premium   | $260      | $260          | high           | medium | 3      | namecheap            |
-| bjp.parts     | available | $15.99    | —             | high           | low    | 3      | name.com             |
-| poker.parts   | resell    | —         | —             | high           | medium | 5      | Mesh Digital Limited |
-| add.parts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo             |
-| clv.parts     | available | $10.48    | $45.98        | high           | low    | 3      | namecheap            |
-| bundle.parts  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC     |
-| ads.parts     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo             |
-| cxl.parts     | available | $10.48    | $45.98        | high           | low    | 3      | namecheap            |
-| premium.parts | resell    | —         | —             | high           | low    | 7      | united-domains GmbH  |
-| aft.parts     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo             |
-| lii.parts     | available | $10.48    | $45.98        | high           | low    | 3      | namecheap            |
-| are.parts     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo             |
-| nan.parts     | available | $15.99    | —             | high           | low    | 3      | name.com             |
-| btw.parts     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo             |
-| shh.parts     | available | $15.99    | —             | high           | low    | 3      | name.com             |
-| bum.parts     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo             |
-| xcl.parts     | available | $10.48    | $45.98        | medium         | low    | 3      | namecheap            |
-| cot.parts     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo             |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| bph.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo     |
+| comp.parts | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC |
+| ask.parts  | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo     |
+| cxl.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap    |
+| hind.parts | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc  |
+| din.parts  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
+| cxv.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap    |
+| had.parts  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| jem.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap    |
+| hug.parts  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
+| kat.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo     |
+| ivy.parts  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| lxv.parts  | available | $10.48    | $45.98        | medium         | low    | 3      | namecheap    |
+| lax.parts  | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap    |
+| nfl.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo     |
+| mad.parts  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo     |
+| sse.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo     |
+| map.parts  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap    |
+| sup.parts  | available | $15.99    | —             | high           | low    | 3      | name.com     |
+| nee.parts  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,269 live domains                        |
+| 1,000-row public sample | 22,567 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
+| Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
