@@ -1,10 +1,10 @@
-# Available .PARTS One-Word Domains (30,525)
+# Available .PARTS One-Word Domains (32,029)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C525%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C029%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .parts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,525 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,029 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,525 domains · **Median ask:** $16.20 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 32,029 domains · **Median ask:** $16.13 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/parts`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | bea.parts  | available | $9.52     | $33.32        | high           | low    | 3      | spaceship   |
 | hind.parts | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc |
-| dad.parts  | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com    |
-| bph.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo    |
 | had.parts  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
-| csx.parts  | available | $10.48    | $45.98        | medium         | low    | 3      | namecheap   |
+| bph.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo    |
 | hun.parts  | premium   | $66.50    | —             | high           | low    | 3      | unstoppable |
-| cxl.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
+| csx.parts  | available | $10.48    | $45.98        | medium         | low    | 3      | namecheap   |
 | ivy.parts  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
-| cxv.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
+| cxl.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
 | lui.parts  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo    |
-| doj.parts  | available | $8.78     | $34.46        | medium         | low    | 3      | dynadot     |
+| cxv.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
 | mad.parts  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
-| fia.parts  | available | $9.52     | $33.32        | medium         | low    | 3      | spaceship   |
-| nat.parts  | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship   |
-| hsv.parts  | available | $12       | —             | high           | low    | 3      | unstoppable |
+| doj.parts  | available | $8.78     | $34.46        | medium         | low    | 3      | dynadot     |
 | nor.parts  | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap   |
-| jem.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
+| fia.parts  | available | $9.52     | $33.32        | medium         | low    | 3      | spaceship   |
 | por.parts  | premium   | $34.36    | $34.36        | medium         | low    | 3      | spaceship   |
+| hsv.parts  | available | $12       | —             | high           | low    | 3      | unstoppable |
+| wig.parts  | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship   |
+| jem.parts  | available | $10.48    | $45.98        | high           | low    | 3      | namecheap   |
+| bass.parts | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap   |
 | kat.parts  | available | $12.99    | $41.99        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,525 live domains                        |
+| 1,000-row public sample | 32,029 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
